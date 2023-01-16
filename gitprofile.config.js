@@ -82,8 +82,8 @@ const config = {
     {
       title: '472 Squadron Website',
       description: 'A website created for my local Air Cadet Squadron in order to help attract new cadets and to promote the squadron.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      imageUrl: 'https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png',
+      link: 'https://www.472squadron.com',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
