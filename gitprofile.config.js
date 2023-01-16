@@ -20,7 +20,7 @@ const config = {
     medium: '',
     dev: 'ElBeenMachine',
     stackoverflow: '', // format: userid/username
-    website: 'https://www.beenhamow.co.uk',
+    website: 'www.beenhamow.co.uk',
     phone: '',
     email: 'ollie@beenhamow.co.uk',
   },

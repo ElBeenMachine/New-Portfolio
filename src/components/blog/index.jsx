@@ -168,7 +168,7 @@ const Blog = ({ loading, blog, googleAnalytics }) => {
       <div className="text-center mb-6">
         <AiOutlineContainer className="mx-auto h-12 w-12 opacity-30" />
         <p className="mt-1 text-sm opacity-50 text-base-content">
-          No recent post
+          No recent posts
         </p>
       </div>
     );
