@@ -183,7 +183,7 @@ const Details = ({ profile, loading, social, github }) => {
                   icon={<FaGlobe className="mr-2" />}
                   title="Website:"
                   value={social.website}
-                  link={social.website}
+                  link={"https://" + social.website}
                 />
               )}
               {social?.phone && (
