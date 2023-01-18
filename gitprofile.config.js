@@ -76,7 +76,7 @@ const config = {
     {
       title: 'A-Level Computer Science Notes',
       description: 'An open-source collection of some notes covering the A-Level OCR Computer Science Course',
-      imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyIkTkO-HxQBIY3MPU84yxdqaLZbWiFtIQ0YdztK83dX1Vx4mMYmZ_WEWqiPA77rE1Mh8&usqp=CAU',
+      imageUrl: 'https://cdn.icon-icons.com/icons2/2699/PNG/512/gitbook_logo_icon_168173.png',
       link: 'https://notes.beenhamow.co.uk',
     },
     {
