@@ -74,6 +74,12 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
+      title: 'A-Level Computer Science Notes',
+      description: 'An open-source collection of some notes covering the A-Level OCR Computer Science Course',
+      imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyIkTkO-HxQBIY3MPU84yxdqaLZbWiFtIQ0YdztK83dX1Vx4mMYmZ_WEWqiPA77rE1Mh8&usqp=CAU',
+      link: 'https://notes.beenhamow.co.uk',
+    },
+    {
       title: 'Apache Bot',
       description: 'Apache is an all-purpose Discord bot created for my computer science A-Level coursework.',
       imageUrl: 'https://www.apachebot.net/img/logo.png',
