@@ -22,7 +22,7 @@ const config = {
     stackoverflow: '', // format: userid/username
     website: 'www.beenhamow.co.uk',
     phone: '',
-    email: 'ollie@beenhamow.co.uk',
+    email: '',
   },
   resume: {
     fileUrl:
@@ -40,13 +40,6 @@ const config = {
     'Python',
   ],
   experiences: [
-    {
-      company: 'Flip Out UK',
-      position: 'Contact Centre Agent and IT Advisor',
-      from: 'February 2022',
-      to: 'Present',
-      companyLink: 'https://www.flipout.co.uk',
-    }
   ],
   /* certifications: [
     {
