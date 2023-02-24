@@ -68,7 +68,7 @@ const config = {
     {
       title: 'A-Level Computer Science Notes',
       description: 'An open-source collection of some notes covering the A-Level OCR Computer Science Course',
-      imageUrl: 'https://cdn.icon-icons.com/icons2/2699/PNG/512/gitbook_logo_icon_168173.png',
+      imageUrl: 'https://ugc.futurelearn.com/uploads/images/40/94/4094dbde-26ef-472c-bca5-3fb318841e45.png',
       link: 'https://notes.beenhamow.co.uk',
     },
     {
