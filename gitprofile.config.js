@@ -39,8 +39,7 @@ const config = {
     'CSS',
     'Python',
   ],
-  experiences: [
-  ],
+  experiences: [],
   /* certifications: [
     {
       name: 'Lorem ipsum',
